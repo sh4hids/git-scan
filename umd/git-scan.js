@@ -1,0 +1,1 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeof define&&define.amd?define(["exports"],t):t((e="undefined"!=typeof globalThis?globalThis:e||self).gitScan={})}(this,(function(e){"use strict";e.isGitInstalled=function(){return!0},e.isGitRepo=function(){return!0}}));
